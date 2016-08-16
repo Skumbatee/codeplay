@@ -1,6 +1,6 @@
 # codeplay
-Repository for Andela group work bootcamp projects
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 So lets start puting our content guys
 
@@ -18,5 +18,26 @@ When you create a branch in your project, you're creating an environment where y
 > #ProTip
 Branching is a core concept in Git, and the entire GitHub Flow is based upon it. There's only one rule: anything in the master branch is always deployable.
 Because of this, it's extremely important that your new branch is created off of master when working on a feature or a fix. Your branch name should be descriptive (e.g., refactor-authentication, user-content-cache-key, make-retina-avatars), so that others can see what is being worked on.
+=======
+
+So lets start puting our content guys
+
+
+
+5. Deploy
+Once your pull request has been reviewed and the branch passes your tests, you can deploy your changes to verify them in production. If your branch causes issues, you can roll it back by deploying the existing master into production.
+
+
+6. Merge
+Now that your changes have been verified in production, it is time to merge your code into the master branch.
+Once merged, Pull Requests preserve a record of the historical changes to your code. Because they're searchable, they let anyone go back in time to understand why and how a decision was made.
+
+
+##ProTip
+By incorporating certain keywords into the text of your Pull Request, you can associate issues with code. When your Pull Request is merged, the related issues are also closed. For example, entering the phrase Closes #32 would close issue number 32 in the repository. For more information, check out our [help article](https://help.github.com/articles/closing-issues-via-commit-messages/).
+
+
+
+>>>>>>> bbe641740835241461e2bc626660a71e911f7f9b
 
 >>>>>>> b10a56a7502699a51689e75e5a971f51ca5d42cd
