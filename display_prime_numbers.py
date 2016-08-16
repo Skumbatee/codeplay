@@ -20,4 +20,3 @@ def display_prime_numbers(n):
 
     return primenumbers
 
-print display_prime_numbers(50)
